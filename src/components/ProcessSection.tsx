@@ -1,5 +1,6 @@
 import React from 'react';
 import { Send, PhoneCall, UserCheck, FileBadge, ArrowRight } from 'lucide-react';
+import serviceProcessImage from '../assets/images/service_process_professional_1793215142064.jpg';
 
 interface ProcessSectionProps {
   onRequestService: () => void;

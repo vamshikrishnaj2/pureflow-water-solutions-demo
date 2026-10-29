@@ -1,5 +1,6 @@
 import React from 'react';
 import { MessageCircle, Phone, Mail, MapPin, Clock, ArrowRight, ShieldAlert } from 'lucide-react';
+import customerSupportImage from '../assets/images/customer_support_contact_1793215142502.jpg';
 
 interface ContactSectionProps {
   onOpenWhatsApp: () => void;

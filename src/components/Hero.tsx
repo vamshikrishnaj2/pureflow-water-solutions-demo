@@ -1,5 +1,6 @@
 import React from 'react';
 import { ArrowRight, Wrench, ShieldCheck, Droplet, PhoneCall } from 'lucide-react';
+import heroImage from '../assets/images/pureflow_hero_purifier_1790712992497.jpg';
 
 interface HeroProps {
   onExploreSolutions: () => void;

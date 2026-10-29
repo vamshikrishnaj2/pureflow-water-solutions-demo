@@ -1,5 +1,6 @@
 import React from 'react';
 import { FileText, MessageSquareShare, GitCommit, PhoneCall, ShieldCheck, Check } from 'lucide-react';
+import technicianImage from '../assets/images/pureflow_technician_service_1790713006579.jpg';
 
 interface WhyUsSectionProps {
   onLearnMore?: () => void;

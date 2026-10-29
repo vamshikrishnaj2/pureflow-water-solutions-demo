@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { DEMO_SERVICE_AREAS } from '../data/mockData';
 import { MapPin, Clock, CheckCircle2, Search, ArrowRight } from 'lucide-react';
+import serviceAreasMapImage from '../assets/images/service_areas_map_visualization_1793215141788.jpg';
 
 interface ServiceAreasSectionProps {
   onSelectAreaForBooking: (areaName: string) => void;
