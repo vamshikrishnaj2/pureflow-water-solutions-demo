@@ -1,0 +1,6 @@
+{
+  "name": "PureFlow Water Solutions - Demo Website",
+  "description": "Demonstration portfolio website for PureFlow Water Solutions, showcasing fictional water purifier sales, installation, AMC and repair services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
